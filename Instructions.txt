@@ -1,0 +1,16 @@
+Instruction
+
+1.	Execute the files pro_pso.py to visualize the Particle Swarm Optimization
+2.	Execute the files pro_ta.py to visualize the Taboo Search Optimization
+
+visualizations 
+-- rectangular plot fit 
+-- convergence to max distance over time
+
+the ipynb files contain the code for running th entire script to visualize the 
+-- 30 runs of each algorithm(PSO & Taboo Search)
+-- Comparison for those 30 runs(PSO V/S Taboo Search)
+preferable to execute it with jupyter or google colab
+
+the other two folders contain data obtained during these runs(screenshot of outputs)
+
